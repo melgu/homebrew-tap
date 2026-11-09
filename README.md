@@ -4,6 +4,7 @@ Homebrew formulae and casks for my apps.
 
 | Name | Install | |
 |---|---|---|
+| [NebulaSwift](https://github.com/melgu/NebulaSwift) | `brew install --cask melgu/tap/nebulaswift` | Nebula client for macOS |
 | [TidalSwift](https://github.com/melgu/TidalSwift) | `brew install --cask melgu/tap/tidalswift` | Tidal client for macOS |
 | [TidalSwiftCLI](https://github.com/melgu/TidalSwiftCLI) | `brew install melgu/tap/tidalswift-cli` | `tidal` command line tool and MCP server |
 
