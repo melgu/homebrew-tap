@@ -15,4 +15,4 @@ brew trust melgu/tap
 
 ## Unsigned apps
 
-The apps are signed with a development certificate, but not notarized. The TidalSwift cask removes the quarantine attribute after installing, so macOS opens the app without asking. The `tidal` binary isn't quarantined in the first place, as Homebrew doesn't quarantine formula downloads.
+The apps are signed with a development certificate, but not notarized. The app casks remove the quarantine attribute after installing, so macOS opens the apps without asking. The `tidal` binary isn't quarantined in the first place, as Homebrew doesn't quarantine formula downloads.
