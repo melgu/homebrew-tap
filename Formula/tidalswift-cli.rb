@@ -1,8 +1,8 @@
 class TidalswiftCli < Formula
   desc "Command-line tool and MCP server for Tidal"
   homepage "https://github.com/melgu/TidalSwiftCLI"
-  url "https://github.com/melgu/TidalSwiftCLI/releases/download/1.0.0/tidal-1.0.0-macos.tar.gz"
-  sha256 "d4feb3415bbb3f41e56e84c2d1c5304bb4f88dcd4cdc60c9f6c90df225c08d21"
+  url "https://github.com/melgu/TidalSwiftCLI/releases/download/1.1.0/tidal-1.1.0-macos.tar.gz"
+  sha256 "f65610985d4f44322eeb9a7a16706ea810e2abc2cde36caa5429ff3c4fde5b7e"
   license "GPL-3.0-only"
 
   depends_on macos: :sonoma
