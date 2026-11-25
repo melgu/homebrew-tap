@@ -1,6 +1,6 @@
 cask "nebulaswift" do
-  version "1.0.0-1"
-  sha256 "1067d9a4de627cc4bb2369decc15a64e44a7211297bd9514a4d3870a464b9574"
+  version "1.0.1-2"
+  sha256 "5a0249745a95715a244dd58a1f45afb893fdb3e429390b192d49f7a6b7c4c0c5"
 
   url "https://github.com/melgu/NebulaSwift/releases/download/#{version}/NebulaSwift.zip"
   name "NebulaSwift"
