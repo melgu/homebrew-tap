@@ -1,6 +1,6 @@
 cask "tidalswift" do
-  version "1.1.2-71"
-  sha256 "4954dde85cd50cecad62960d65458d1d7a33e9e6e37dfaa7fcd2c5da50afb14c"
+  version "1.2.0-72"
+  sha256 "7ddf00440e7f1fe6df4e130948d2e6d87cfc10df09773b2f1441963221b98664"
 
   url "https://github.com/melgu/TidalSwift/releases/download/#{version}/TidalSwift.zip"
   name "TidalSwift"
